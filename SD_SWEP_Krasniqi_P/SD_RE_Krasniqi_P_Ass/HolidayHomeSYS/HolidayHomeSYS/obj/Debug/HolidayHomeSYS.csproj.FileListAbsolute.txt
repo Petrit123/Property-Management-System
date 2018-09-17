@@ -1,0 +1,216 @@
+c:\users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe.config
+c:\users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe
+c:\users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.pdb
+c:\users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csprojResolveAssemblyReference.cache
+c:\users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.Properties.Resources.resources
+c:\users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.GenerateResource.Cache
+c:\users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.CoreCompileInputs.cache
+c:\users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.exe
+c:\users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.pdb
+C:\Users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRegisterProperty.resources
+C:\Users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCancelBooking.resources
+C:\Users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckAvailability.resources
+C:\Users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckIn.resources
+C:\Users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckOut.resources
+C:\Users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmIssueInvoice.resources
+C:\Users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMainMenu.resources
+C:\Users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMakeBooking.resources
+C:\Users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRemoveProperty.resources
+C:\Users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysis.resources
+C:\Users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysisByProp.resources
+C:\Users\petri\source\repos\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmUpdateProperty.resources
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe.config
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.pdb
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csprojResolveAssemblyReference.cache
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCancelBooking.resources
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckAvailability.resources
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckIn.resources
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckOut.resources
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmIssueInvoice.resources
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMainMenu.resources
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMakeBooking.resources
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.Properties.Resources.resources
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRegisterProperty.resources
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRemoveProperty.resources
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysis.resources
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysisByProp.resources
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmUpdateProperty.resources
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.GenerateResource.Cache
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.CoreCompileInputs.cache
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.exe
+I:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.pdb
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csprojResolveAssemblyReference.cache
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCancelBooking.resources
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckAvailability.resources
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckIn.resources
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckOut.resources
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmIssueInvoice.resources
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMainMenu.resources
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMakeBooking.resources
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.Properties.Resources.resources
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRegisterProperty.resources
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRemoveProperty.resources
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysis.resources
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysisByProp.resources
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmUpdateProperty.resources
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.GenerateResource.Cache
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.CoreCompileInputs.cache
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.exe
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.pdb
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe.config
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe
+H:\Year2\Semester1\Requirements Engineering\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.pdb
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe.config
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.pdb
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCancelBooking.resources
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckAvailability.resources
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckIn.resources
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckOut.resources
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmIssueInvoice.resources
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMainMenu.resources
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMakeBooking.resources
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.Properties.Resources.resources
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRegisterProperty.resources
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRemoveProperty.resources
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysis.resources
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysisByProp.resources
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmUpdateProperty.resources
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.GenerateResource.Cache
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.exe
+C:\Users\t00192719\Desktop\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.pdb
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCancelBooking.resources
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckAvailability.resources
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckIn.resources
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckOut.resources
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmIssueInvoice.resources
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMainMenu.resources
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMakeBooking.resources
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.Properties.Resources.resources
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRegisterProperty.resources
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysis.resources
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysisByProp.resources
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmUpdateProperty.resources
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.GenerateResource.Cache
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.exe
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.pdb
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe.config
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.pdb
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe.config
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.pdb
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csprojResolveAssemblyReference.cache
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCancelBooking.resources
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckAvailability.resources
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckIn.resources
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckOut.resources
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmIssueInvoice.resources
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMainMenu.resources
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMakeBooking.resources
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.Properties.Resources.resources
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRegisterProperty.resources
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRemoveProperty.resources
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysis.resources
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysisByProp.resources
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmUpdateProperty.resources
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.GenerateResource.Cache
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.CoreCompileInputs.cache
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.exe
+I:\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.pdb
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe.config
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.pdb
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCancelBooking.resources
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckAvailability.resources
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckIn.resources
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckOut.resources
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmIssueInvoice.resources
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMainMenu.resources
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMakeBooking.resources
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.Properties.Resources.resources
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRegisterProperty.resources
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysis.resources
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysisByProp.resources
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmUpdateProperty.resources
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.GenerateResource.Cache
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.exe
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.pdb
+C:\Users\t00192719\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmDeRegisterProperty.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe.config
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.pdb
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csprojResolveAssemblyReference.cache
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCancelBooking.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckAvailability.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckIn.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckOut.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmIssueInvoice.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMainMenu.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMakeBooking.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.Properties.Resources.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRegisterProperty.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmDeRegisterProperty.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysis.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysisByProp.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmUpdateProperty.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.GenerateResource.Cache
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.CoreCompileInputs.cache
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.exe
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.pdb
+C:\Users\t00192719\Desktop\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmDeRegisterProperty.resources
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe.config
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.pdb
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csprojResolveAssemblyReference.cache
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCancelBooking.resources
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckAvailability.resources
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckIn.resources
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckOut.resources
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmIssueInvoice.resources
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMainMenu.resources
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMakeBooking.resources
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.Properties.Resources.resources
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRegisterProperty.resources
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmDeRegisterProperty.resources
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysis.resources
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysisByProp.resources
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmUpdateProperty.resources
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.GenerateResource.Cache
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.CoreCompileInputs.cache
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.exe
+C:\Users\petri\OneDrive\Desktop\Project\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.pdb
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe.config
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.exe
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\bin\Debug\HolidayHomeSYS.pdb
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csprojResolveAssemblyReference.cache
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCancelBooking.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckAvailability.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckIn.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmCheckOut.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmIssueInvoice.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMainMenu.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmMakeBooking.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.Properties.Resources.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRegisterProperty.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmDeRegisterProperty.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysis.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmRevenueAnalysisByProp.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.frmUpdateProperty.resources
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.GenerateResource.Cache
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.csproj.CoreCompileInputs.cache
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.exe
+C:\Users\petri\OneDrive\Desktop\College Stuff\Year2\Semester2\Software Engineering Project\SD_SWEP_Krasniqi_P\SD_RE_Krasniqi_P_Ass\HolidayHomeSYS\HolidayHomeSYS\obj\Debug\HolidayHomeSYS.pdb

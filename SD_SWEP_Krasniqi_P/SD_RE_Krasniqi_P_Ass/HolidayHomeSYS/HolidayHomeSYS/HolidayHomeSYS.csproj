@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2A7E8B77-0E58-41B1-BF16-5377454B082E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HolidayHomeSYS</RootNamespace>
+    <AssemblyName>HolidayHomeSYS</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL" />
+    <Reference Include="Oracle.ManagedDataAccess.EntityFramework, Version=6.122.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Bookings.cs" />
+    <Compile Include="Classes\DBConnect.cs" />
+    <Compile Include="Classes\Payments.cs" />
+    <Compile Include="Manage Bookings\frmCancelBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Bookings\frmCancelBooking.Designer.cs">
+      <DependentUpon>frmCancelBooking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage Properties\frmCheckAvailability.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Properties\frmCheckAvailability.Designer.cs">
+      <DependentUpon>frmCheckAvailability.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage Bookings\frmCheckIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Bookings\frmCheckIn.Designer.cs">
+      <DependentUpon>frmCheckIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage Bookings\frmCheckOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Bookings\frmCheckOut.Designer.cs">
+      <DependentUpon>frmCheckOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainMenu.Designer.cs">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Charts and Invoices\frmIssueInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Bookings\frmMakeBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Bookings\frmMakeBooking.Designer.cs">
+      <DependentUpon>frmMakeBooking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Property.cs" />
+    <Compile Include="Classes\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Manage Properties\frmRegisterProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Properties\frmRegisterProperty.Designer.cs">
+      <DependentUpon>frmRegisterProperty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage Properties\frmDeRegisterProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Properties\frmDeRegisterProperty.Designer.cs">
+      <DependentUpon>frmDeRegisterProperty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Charts and Invoices\frmRevenueAnalysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Charts and Invoices\frmRevenueAnalysis.Designer.cs">
+      <DependentUpon>frmRevenueAnalysis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Charts and Invoices\frmRevenueAnalysisByProp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Charts and Invoices\frmRevenueAnalysisByProp.Designer.cs">
+      <DependentUpon>frmRevenueAnalysisByProp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage Properties\frmUpdateProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\Tenants.cs" />
+    <EmbeddedResource Include="Manage Bookings\frmCancelBooking.resx">
+      <DependentUpon>frmCancelBooking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage Properties\frmCheckAvailability.resx">
+      <DependentUpon>frmCheckAvailability.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage Bookings\frmCheckIn.resx">
+      <DependentUpon>frmCheckIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage Bookings\frmCheckOut.resx">
+      <DependentUpon>frmCheckOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Charts and Invoices\frmIssueInvoice.resx">
+      <DependentUpon>frmIssueInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainMenu.resx">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage Bookings\frmMakeBooking.resx">
+      <DependentUpon>frmMakeBooking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Manage Properties\frmRegisterProperty.resx">
+      <DependentUpon>frmRegisterProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage Properties\frmDeRegisterProperty.resx">
+      <DependentUpon>frmDeRegisterProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Charts and Invoices\frmRevenueAnalysis.resx">
+      <DependentUpon>frmRevenueAnalysis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Charts and Invoices\frmRevenueAnalysisByProp.resx">
+      <DependentUpon>frmRevenueAnalysisByProp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage Properties\frmUpdateProperty.resx">
+      <DependentUpon>frmUpdateProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addprop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confirm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkIn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkOut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invoice.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addprop1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addprop11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\available.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confirm1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkIn1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkOut1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invoice1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report11.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report2.PNG" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
